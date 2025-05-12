@@ -53,3 +53,7 @@ iframe {
 .dark-mode p {
   color: #fffff0 !important;
 }
+.dark-mode .roman {
+    color: blue;
+    margin: 0;
+  }
