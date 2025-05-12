@@ -211,20 +211,6 @@ footer {
 }
 
 
-@media (prefers-color-scheme: dark) {
-    .card {
-      background-color: #1e1e1e;
-      color: #e0e0e0;
-      border-color: #444;
-    }
 
- .card h3 {
-      color: #ffffff;
-    }
-
-  .card p {
-      color: #cccccc;
-    }
-  }
 
 
